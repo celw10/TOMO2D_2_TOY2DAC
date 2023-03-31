@@ -1,5 +1,5 @@
 A collection of Python algorithms to format seismic data for traveltime tomography in TOMO2D and full-waveform inversion in TOY2DAC.
-These codes are for an MSc. thesis titled "Wide-Angle, Full Waveform Inversion with a Sparse Ocean-Bottom Seismometer Dataset, Imaging the Cyprus Arc from the Eratosthenes Seamount to the Hecataeus Rise".
+These codes are for my MSc. thesis titled "Wide-Angle, Full Waveform Inversion with a Sparse Ocean-Bottom Seismometer Dataset, Imaging the Cyprus Arc from the Eratosthenes Seamount to the Hecataeus Rise".
 The current version of TOMO2D_2_TOY2DAC contains the unedited codes used in this project. 
 
 All codes are provided as .py files and ran using Python 2.7. 
